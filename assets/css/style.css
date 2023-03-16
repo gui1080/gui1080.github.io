@@ -8,6 +8,15 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+figcaption {
+  font-family: "Raleway", sans-serif;
+  color: black;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
